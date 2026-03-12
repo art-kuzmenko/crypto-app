@@ -1,4 +1,4 @@
-# Crypto News Test Task
+# Crypto News
 
 This project contains:
 - A simple Cryptocurrency Price API (Node.js + Express) with 1-minute caching and Docker.
